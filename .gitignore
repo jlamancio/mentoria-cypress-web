@@ -1,0 +1,14 @@
+node_modules/
+npm-debug.log*
+cypress/screenshots/
+cypress/videos/
+cypress/reports/
+.nyc_output/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.vscode/
+.DS_Store
+Thumbs.db
