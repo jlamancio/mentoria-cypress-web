@@ -1,2 +1,2 @@
-import './page_objects/home_commands'
-import './page_objects/login_commands'
+import './page_objects_commands/home_commands'
+import './page_objects_commands/login_commands'
